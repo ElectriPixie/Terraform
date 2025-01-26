@@ -5,4 +5,4 @@
 [submodule "Modules/Terraform_LocalStack_Module"]
 	path = Modules/Terraform_LocalStack_Module
 	url = https://github.com/ElectriPixie/Terraform_LocalStack_Module.git
-	branch = main
+	branch = development
