@@ -1,5 +1,5 @@
 [submodule "Modules/Terraform_LocalStack"]
 	path = Modules/Terraform_LocalStack
 	url = https://github.com/ElectriPixie/Terraform_LocalStack.git
-	update = none
+	update = true
 	branch = main
